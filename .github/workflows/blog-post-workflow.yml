@@ -15,4 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
         comment_tag_name: "BLOG-POSTS-LIST"
-          feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
+          feed_list: "https://dhanushhustler.medium.com/"
